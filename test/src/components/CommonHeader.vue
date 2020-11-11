@@ -1,7 +1,9 @@
 <template>
   <div>
     <p>github難しいんだよなあ</p>
-    <p>更新</p>
+    <div>
+      <p>更新</p>
+    </div>
   </div>
 </template>
 
