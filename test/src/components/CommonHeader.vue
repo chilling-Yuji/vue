@@ -1,8 +1,7 @@
 <template>
   <div>
     <p>github難しいんだよなあ</p>
-    <p>大島優治</p>
-    <p>難しい</p>
+    <p>更新</p>
   </div>
 </template>
 
