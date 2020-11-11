@@ -7,11 +7,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import CommonHeader from "./components/CommonHeader/"
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    CommonHeader
   }
 }
 </script>
